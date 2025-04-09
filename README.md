@@ -40,5 +40,12 @@ add
 
     ele mandou fazer, mas inda não fiz
 
-
     npx ts-node ./src/index.ts
+
+    npm i -D prisma
+    npm i @prisma/client
+    npx prisma init
+
+    npm i jsonwebtoken bcrypt
+    npm i -D @types/jsonwebtoken @types/bcrypt
+
